@@ -1,2 +1,2 @@
-# shop
+# this is a test shop
 
